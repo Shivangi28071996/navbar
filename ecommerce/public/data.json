@@ -1,0 +1,38 @@
+[{
+    "category":"Men's",
+    "subcategory":[{
+            "name":"Shirt",
+            "types":["Formal Shirt",
+                "Casual Shirt",
+                "Partywear Shirt"
+            ]
+            },
+            {
+            "name":"Shoes",
+            "types":[
+                "Formal Shoes",
+                "Casual Shoes",
+                "Partywear Shoes"
+            ]
+        }
+    ]
+},
+{
+    "category":"Women's",
+    "subcategory":[{
+            "name":"Clothing",
+            "types":["Formal Shirt",
+                "Suits",
+                "Sarees"
+            ]
+        },
+        {
+            "name":"Shoes",
+            "types":[
+                "Formal Shoes",
+                "Casual Shoes",
+                "Partywear Shoes"
+            ]
+        }]
+}
+]
